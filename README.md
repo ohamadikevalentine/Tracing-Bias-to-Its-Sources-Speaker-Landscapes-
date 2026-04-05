@@ -84,8 +84,8 @@ Some setup in the notebook assumes a Google Colab environment and Google Drive m
 
 If you use this code, please cite the associated paper:
 
-Ohamadike, N., Durrheim, K., & Primus, M. *Tracing Bias to Its Sources: A Word Embedding Audit of Racism in South African News Outlets.*
+Ohamadike, N., Durrheim, K., & Primus, M. (forthcoming) *Tracing Bias to Its Sources: A Word Embedding Audit of Racism in South African News Outlets.*
 
 For the speaker-landscape method, please also cite:
 
-Schuld, M. et al. (2024). *Speaker landscapes*. GitHub repository: https://github.com/mariaschuld/speaker-landscapes
+Schuld, M., Durrheim, K., & Mafunda, M. (2024). Speaker landscapes: Machine learning opens a window on the everyday language of opinion. Communication Methods and Measures, 18(4), 315-331.
