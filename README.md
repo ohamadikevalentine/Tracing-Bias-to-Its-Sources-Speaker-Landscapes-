@@ -8,7 +8,7 @@ This repository includes the analysis code only. It does **not** include code fo
 
 The notebook performs the following analyses:
 
-- loads an ensemble of 10 pretrained platform-level Word2Vec embeddings (embeddings included in the repo)
+- loads an ensemble of 10 pretrained platform-level Word2Vec embeddings (please contact authors for access to embeddings)
 - measures stereotype associations with a race dimension
 - filters stereotypes based on directional consistency
 - validates stereotype associations against human ratings
@@ -25,7 +25,7 @@ The notebook performs the following analyses:
 
 The notebook expects access to external files stored locally or on Google Drive, including:
 
-- pretrained platform-level embedding files for 10 runs (included in repo)
+- pretrained platform-level embedding files for 10 runs
 - human ratings data
 - comparison data from the earlier aggregate study (Ohamadike et al., 2025).
 
